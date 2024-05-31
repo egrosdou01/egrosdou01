@@ -13,4 +13,4 @@ I am a DevOps Consulting Engineer at Cisco Systems, and I have recently embarked
 
 Languages and technologies I work with:
 
-🌟 Docker 🌟 Kubernetes 🌟 Ansible 🌟 Terraform
+🌟 Kubernetes 🌟 Docker 🌟 Ansible 🌟 Terraform
