@@ -8,7 +8,7 @@ I am a DevOps Consulting Engineer at Cisco Systems, and I have recently embarked
 
 - 🔭 Currently contributing to [projectsveltos](https://github.com/projectsveltos) and [k8s-cleaner](https://github.com/gianlucam76/k8s-cleaner)
 - 🌱 Learning Golang
-- 💬 Feel free to ask me about Rancher RKE2, OCP, and general Kubernetes deployments, whether it is on-prem (Proxmox, Nutanix, VMware vSphere) or in the cloud
+- 💬 Feel free to ask me about Rancher RKE2, OCP, Cilium and general Kubernetes deployments, whether it is on-prem (Proxmox, Nutanix, VMware vSphere) or in the cloud
 - ⚡ Fun fact: I have recently joined a local rugby team
 - 🏠 I work from home!
 
