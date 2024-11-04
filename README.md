@@ -1,7 +1,7 @@
 ### Hi there 👋 I am Eleni
 
 [![Linkedin: elenigrosdouli](https://img.shields.io/badge/-elenigrosdouli-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eleni-grosdouli-85a1a5116)](https://www.linkedin.com/in/eleni-grosdouli-85a1a5116)
-[![Generic Badge](https://img.shields.io/badge/blog-personal-blue?style=flat&logo=appveyor)](https://egrosdou01.github.io/personal-blog/)
+[![Generic Badge](https://img.shields.io/badge/blog-personal-blue?style=flat&logo=appveyor)](https://blog.grosdouli.dev/)
 [![Medium Badge](https://img.shields.io/badge/-@eleni.grosdouli-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@eleni.grosdouli/)](https://medium.com/@eleni.grosdouli)
 
 I am a DevOps Consulting Engineer at Cisco Systems, and I have recently embarked on a journey with open source while documenting my experiences in easy-to-follow blog posts.
