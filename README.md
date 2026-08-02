@@ -4,7 +4,7 @@
 [![Generic Badge](https://img.shields.io/badge/blog-personal-blue?style=flat&logo=appveyor)](https://blog.grosdouli.dev/)
 [![Medium Badge](https://img.shields.io/badge/-@eleni.grosdouli-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@eleni.grosdouli/)](https://medium.com/@eleni.grosdouli)
 
-I am a DevOps Consulting Engineer at Cisco Systems. I have recently embarked on a journey with open source and enjoy sharing what I learn through easy-to-follow blog posts and talks at cloud community events.
+I am a DevOps Consulting Engineer at Cisco Systems. I have recently embarked on a journey with open source and enjoy sharing what I learn through easy-to-follow blog posts and talks at cloud community events. I am actively blogging at [blog.grosdouli.dev](https://blog.grosdouli.dev).
 
 - 🔭 Currently contributing to [projectsveltos](https://github.com/projectsveltos) and [k8s-cleaner](https://github.com/gianlucam76/k8s-cleaner)
 - 🌱 Learning Golang
